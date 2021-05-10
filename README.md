@@ -1,0 +1,2 @@
+# discogs
+Discogs collection manager
